@@ -1,0 +1,12 @@
+{
+  "name": "@chimaera/connector-s3",
+  "version": "0.0.0",
+  "description": "connects to s3",
+  "author": "Richard Tong",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:chimaera-node/connector-s3"
+  }
+}
